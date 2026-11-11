@@ -1,6 +1,6 @@
 # Ultimate AI Book — One-Question Code Examples
 
-Two example programs from the Ultimate AI Book by Abel Haile Magicho.
+Ten example programs from the Ultimate AI Book by Abel Haile Magicho.
 Each part of the book ends with one question: write ONE program that uses
 everything the part taught.
 
@@ -44,3 +44,51 @@ Output:
 
 Needs numpy, pandas, matplotlib and scikit-learn installed.
 Run it with: python3 part-2-python-ai-libraries.py
+
+## Part 3 — Machine Learning Fundamentals — part-3-machine-learning.py
+
+One program using what Part 3 taught: machine learning fundamentals.
+
+Run it with: python3 part-3-machine-learning.py
+
+## Part 4 — Supervised Learning — part-4-supervised-learning.py
+
+One program using what Part 4 taught: supervised learning.
+
+Run it with: python3 part-4-supervised-learning.py
+
+## Part 5 — Unsupervised Learning — part-5-unsupervised-learning.py
+
+One program using what Part 5 taught: unsupervised learning.
+
+Run it with: python3 part-5-unsupervised-learning.py
+
+## Part 6 — Deep Learning — part-6-deep-learning.py
+
+One program using what Part 6 taught: deep learning.
+
+Run it with: python3 part-6-deep-learning.py
+
+## Part 7 — NLP — part-7-nlp.py
+
+One program using what Part 7 taught: natural language processing (NLP).
+
+Run it with: python3 part-7-nlp.py
+
+## Part 8 — Large Language Models — part-8-llms.py
+
+One program using what Part 8 taught: large language models.
+
+Run it with: python3 part-8-llms.py
+
+## Part 9 — Generative AI — part-9-generative-ai.py
+
+One program using what Part 9 taught: generative AI.
+
+Run it with: python3 part-9-generative-ai.py
+
+## Part 10 — APIs — part-10-apis.py
+
+One program using what Part 10 taught: APIs.
+
+Run it with: python3 part-10-apis.py
